@@ -1,0 +1,249 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "- Prefer canonical language variants when translating main languages.\n- Preserve standalone regional targets and Simplified/Traditional Chinese.\n- Automatic translation of all languages." : {
+
+    },
+    "- Translate main languages by default, with menu actions for existing languages and regional variants." : {
+
+    },
+    "All Available Languages" : {
+
+    },
+    "Automatically save" : {
+
+    },
+    "Cancels the current translation run." : {
+
+    },
+    "Choose a source and target, then translate your string catalog." : {
+
+    },
+    "Choose an .xcstrings file to see the strings that can be translated." : {
+
+    },
+    "Choose one target language or all languages available on this Mac." : {
+
+    },
+    "Choose the language used by the opened string catalog." : {
+
+    },
+    "Choose the state saved for new translations in the string catalog." : {
+
+    },
+    "Choose the target language selected when the app opens." : {
+
+    },
+    "Close" : {
+
+    },
+    "Closes the settings window." : {
+
+    },
+    "Collapses language variants such as nl-NL, nl-BE, and fr-FR." : {
+
+    },
+    "Default app status" : {
+
+    },
+    "Default target language" : {
+
+    },
+    "Dismisses this prompt and does not ask again." : {
+
+    },
+    "Does not overwrite the original strings file." : {
+
+    },
+    "Elapsed" : {
+
+    },
+    "ETA" : {
+
+    },
+    "Exports the translated string catalog." : {
+
+    },
+    "Includes every compatible regional and script variant for the selected language." : {
+
+    },
+    "Initial App Store release." : {
+
+    },
+    "Initial release" : {
+
+    },
+    "Languages" : {
+
+    },
+    "Make Default App for .xcstrings" : {
+
+    },
+    "Make XCStrings translator the default app?" : {
+
+    },
+    "Needs review" : {
+
+    },
+    "Not Now" : {
+
+    },
+    "Only main languages" : {
+
+    },
+    "Only translate strings that do not already have a value for the target language." : {
+
+    },
+    "Only update existing languages" : {
+
+    },
+    "Only Update Existing Languages" : {
+
+    },
+    "Open" : {
+
+    },
+    "Open .xcstrings files directly in XCStrings translator from Finder and the Open With menu." : {
+
+    },
+    "Open a string catalog" : {
+
+    },
+    "Open a String Catalog" : {
+
+    },
+    "Opens a file picker to choose an .xcstrings file." : {
+
+    },
+    "Opens translation settings." : {
+
+    },
+    "Overwrite All Translations" : {
+
+    },
+    "Progress" : {
+
+    },
+    "Progress percentage" : {
+
+    },
+    "Remove entries Xcode has marked as stale when opening a string catalog." : {
+
+    },
+    "Remove stale translations" : {
+
+    },
+    "Removes obsolete string catalog entries marked as stale by Xcode." : {
+
+    },
+    "Save" : {
+
+    },
+    "Save progress after each completed language." : {
+
+    },
+    "Set as Default" : {
+
+    },
+    "Sets this app as the default opener for .xcstrings files." : {
+
+    },
+    "Sets XCStrings translator as the default app for string catalogs." : {
+
+    },
+    "Settings" : {
+
+    },
+    "Shows how much of the current translation run is complete." : {
+
+    },
+    "Skip already translated" : {
+
+    },
+    "Source language" : {
+
+    },
+    "Source Language" : {
+
+    },
+    "Stop" : {
+
+    },
+    "Stop translation" : {
+
+    },
+    "Strings" : {
+
+    },
+    "Strings to translate" : {
+
+    },
+    "Target language" : {
+
+    },
+    "Target Language" : {
+
+    },
+    "Test mode" : {
+
+    },
+    "Test Mode" : {
+
+    },
+    "This is the state which is saved in the strings file." : {
+
+    },
+    "Total" : {
+
+    },
+    "Translate" : {
+
+    },
+    "Translate all regional variants" : {
+
+    },
+    "Translate All Regional Variants" : {
+
+    },
+    "Translate each language once instead of every regional or script variant." : {
+
+    },
+    "Translated" : {
+
+    },
+    "Translates only languages already present in the string catalog." : {
+
+    },
+    "Translation" : {
+
+    },
+    "Translation progress" : {
+
+    },
+    "Translation progress section" : {
+
+    },
+    "Translation state" : {
+
+    },
+    "Used as the selected target language when the app starts." : {
+
+    },
+    "Waiting for translation" : {
+
+    },
+    "When enabled, completed language checkpoints are saved to the opened file." : {
+
+    },
+    "When enabled, existing translations are not translated again." : {
+
+    },
+    "When enabled, saving does not overwrite the original string catalog." : {
+
+    },
+    "XCStrings translator" : {
+
+    }
+  },
+  "version" : "1.0"
+}
